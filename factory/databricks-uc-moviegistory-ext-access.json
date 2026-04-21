@@ -1,0 +1,9 @@
+{
+	"name": "databricks-uc-moviegistory-ext-access",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ad86c11-1fd8-4734-b19b-0ef8508b818c",
+		"tenantId": "08b5b193-b9bb-43f2-922b-7e2948a408e9"
+	}
+}

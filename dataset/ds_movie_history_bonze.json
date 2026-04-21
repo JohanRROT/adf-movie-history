@@ -1,0 +1,41 @@
+{
+	"name": "ds_movie_history_bonze",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_movie_history_adls",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"p_ds_file_date": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": {
+					"value": "@dataset().p_ds_file_date",
+					"type": "Expression"
+				},
+				"fileSystem": "bronze"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"countryId": {
+					"type": "integer"
+				},
+				"countryIsoCode": {
+					"type": "string"
+				},
+				"countryName": {
+					"type": "string"
+				}
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
