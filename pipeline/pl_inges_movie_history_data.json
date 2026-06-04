@@ -69,7 +69,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Utils/02.mail_error"
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Utils/02.mail_error"
 							},
 							"linkedServiceName": {
 								"referenceName": "LS_Databricks",
@@ -91,7 +91,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/01. Ingestion_file_movie",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/01. Ingestion_file_movie",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -121,7 +121,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/02. Ingestion_file_languages",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/02. Ingestion_file_languages",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -151,7 +151,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/07. Ingestion_file_movie_cast",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/07. Ingestion_file_movie_cast",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -188,7 +188,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/08. Ingestion_language_role",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/08. Ingestion_language_role",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -225,7 +225,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/09. Ingestion_folder_production_company",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/09. Ingestion_folder_production_company",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -262,7 +262,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/10. Ingestion_folder_movie_company",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/10. Ingestion_folder_movie_company",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -299,7 +299,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/11. Ingestion_folder_movie_language",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/11. Ingestion_folder_movie_language",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -336,7 +336,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/06.Ingestion_file_movie_genre",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/06.Ingestion_file_movie_genre",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -366,7 +366,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/03. Ingestion_file_genre",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/03. Ingestion_file_genre",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -403,7 +403,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/04. Ingestion_file_country",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/04. Ingestion_file_country",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -440,7 +440,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/05.Ingestion_file_person",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/05.Ingestion_file_person",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",
@@ -477,7 +477,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Ingestion/12. Ingestion_folder_production_country",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Ingestion/12. Ingestion_folder_production_country",
 								"baseParameters": {
 									"p_environment": {
 										"value": "@pipeline().parameters.p_environment",

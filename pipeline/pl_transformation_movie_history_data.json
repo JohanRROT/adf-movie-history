@@ -69,7 +69,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/Utils/02.mail_error"
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/Utils/02.mail_error"
 							},
 							"linkedServiceName": {
 								"referenceName": "LS_Databricks",
@@ -91,7 +91,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/transformation/01.results_movie_genre_language",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/transformation/01.results_movie_genre_language",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_file_date, 'yyyy-MM-dd')",
@@ -117,7 +117,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/transformation/02.results_country_prod_company",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/transformation/02.results_country_prod_company",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_file_date, 'yyyy-MM-dd')",
@@ -143,7 +143,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/transformation/04.result_group_movie_country",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/transformation/04.result_group_movie_country",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_file_date, 'yyyy-MM-dd')",
@@ -169,7 +169,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/arodriguezr29@ucentral.edu.co/databrick-course/transformation/03.result_group_movie",
+								"notebookPath": "/Users/johan.gbc@gmail.com/notebooks/transformation/03.result_group_movie",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_file_date, 'yyyy-MM-dd')",
