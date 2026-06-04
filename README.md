@@ -173,7 +173,13 @@ The Databricks notebooks, Delta Lake schema definitions, PySpark transformations
 
 ---
 
+## License
+
+Released under the [MIT License](LICENSE).
+
+---
+
 ## Author
 
-**Johan** · Data Engineer  
+**Johan Rodriguez** · Data Engineer  
 [LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/JohanRROT)
